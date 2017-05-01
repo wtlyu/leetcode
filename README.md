@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: python,c++,c
 
-Last updated: 2017-05-01
+Last updated: 2017-05-02
 
-I've solved 38/523 problems (96 problems for a fee).
+I've solved 47/523 problems (96 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -13,10 +13,13 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |:--:|:-----:|:---------:|:----:|
 |001|[two-sum](https://leetcode.com/problems/two-sum/)| [c](./001.two-sum/two-sum.undefined)| Easy|
 |002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [c](./002.add-two-numbers/add-two-numbers.undefined)| Medium|
+|008|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/)| [c](./008.string-to-integer-atoi/string-to-integer-atoi.undefined)| Medium|
 |013|[roman-to-integer](https://leetcode.com/problems/roman-to-integer/)| [c](./013.roman-to-integer/roman-to-integer.undefined)| Easy|
 |020|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)| [c](./020.valid-parentheses/valid-parentheses.undefined)| Easy|
 |021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [c](./021.merge-two-sorted-lists/merge-two-sorted-lists.undefined)| Easy|
+|024|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [c](./024.swap-nodes-in-pairs/swap-nodes-in-pairs.undefined)| Medium|
 |026|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [c](./026.remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.undefined)| Easy|
+|033|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [c](./033.search-in-rotated-sorted-array/search-in-rotated-sorted-array.undefined)| Medium|
 |048|[rotate-image](https://leetcode.com/problems/rotate-image/)| [c](./048.rotate-image/rotate-image.undefined)| Medium|
 |053|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)| [c](./053.maximum-subarray/maximum-subarray.undefined)| Easy|
 |054|[spiral-matrix](https://leetcode.com/problems/spiral-matrix/)| [c](./054.spiral-matrix/spiral-matrix.undefined)| Medium|
@@ -32,12 +35,16 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [c](./138.copy-list-with-random-pointer/copy-list-with-random-pointer.undefined)| Medium|
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)| [c](./141.linked-list-cycle/linked-list-cycle.undefined)| Easy|
 |151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/)| [c](./151.reverse-words-in-a-string/reverse-words-in-a-string.undefined)| Medium|
+|153|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [c](./153.find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.undefined)| Medium|
 |160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [c](./160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.undefined)| Easy|
 |168|[excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title/)| [c](./168.excel-sheet-column-title/excel-sheet-column-title.undefined)| Easy|
 |171|[excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number/)| [c](./171.excel-sheet-column-number/excel-sheet-column-number.undefined)| Easy|
 |186|[reverse-words-in-a-string-ii](https://leetcode.com/problems/reverse-words-in-a-string-ii/)| [c](./186.reverse-words-in-a-string-ii/reverse-words-in-a-string-ii.undefined)| Medium|
+|191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/)| [c](./191.number-of-1-bits/number-of-1-bits.undefined)| Easy|
 |200|[number-of-islands](https://leetcode.com/problems/number-of-islands/)| [c](./200.number-of-islands/number-of-islands.undefined)| Medium|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)| [c](./206.reverse-linked-list/reverse-linked-list.undefined)| Easy|
+|208|[implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree/)| [c](./208.implement-trie-prefix-tree/implement-trie-prefix-tree.undefined)| Medium|
+|232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [c](./232.implement-queue-using-stacks/implement-queue-using-stacks.undefined)| Easy|
 |235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| [c](./235.lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.undefined)| Easy|
 |236|[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| [c](./236.lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.undefined)| Medium|
 |237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [c](./237.delete-node-in-a-linked-list/delete-node-in-a-linked-list.undefined)| Easy|
@@ -49,3 +56,5 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |387|[first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string/)| [c](./387.first-unique-character-in-a-string/first-unique-character-in-a-string.undefined)| Easy|
 |419|[battleships-in-a-board](https://leetcode.com/problems/battleships-in-a-board/)| [c](./419.battleships-in-a-board/battleships-in-a-board.undefined)| Medium|
 |445|[add-two-numbers-ii](https://leetcode.com/problems/add-two-numbers-ii/)| [c](./445.add-two-numbers-ii/add-two-numbers-ii.undefined)| Medium|
+|513|[find-bottom-left-tree-value](https://leetcode.com/problems/find-bottom-left-tree-value/)| [c](./513.find-bottom-left-tree-value/find-bottom-left-tree-value.undefined)| Medium|
+|567|[permutation-in-string](https://leetcode.com/problems/permutation-in-string/)| [c](./567.permutation-in-string/permutation-in-string.undefined)| Medium|
